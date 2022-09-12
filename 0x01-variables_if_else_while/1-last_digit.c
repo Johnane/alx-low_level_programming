@@ -3,12 +3,13 @@
 #include <stdio.h>
 
 /*
- * main - prints last digits
+ * main - prints if the number is positive or megative
  *
- * Return: Always 0 (Success)
+ * description: using the main
+ * function this program prints positive or zero
+ * Return: 0
  */
 int main(void)
-
 {
 int n;
 
