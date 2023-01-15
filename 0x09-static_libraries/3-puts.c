@@ -8,7 +8,8 @@
 
 void _puts(char *str)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+while (*str)
+_putchar(*str++);
 
+_putchar('\n');
 }

@@ -1,6 +1,3 @@
-2-strlen.c
-
-
 #include "main.h"
 
 /**
