@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <stdarg.h>
-#include "variadic_functions.h"
+#include "variadic_functions"
 
 /**
- * sum_them_all - sums all inputted numbers
- * @n: number of arguments
- * Return: Sum
+ * sum_them_all - sums all parameters.
+ *
+ * @n: value argument
+ * Return: sum
  */
 
 int sum_them_all(const unsigned int n, ...)
