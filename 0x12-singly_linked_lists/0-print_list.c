@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * print_list - Print all elements of a list_t list
+ * print_list - Print all elements
  * @h: Pointer to the first element of the list
  *
  * Return: Number of elements in the list
