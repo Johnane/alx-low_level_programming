@@ -9,8 +9,8 @@
 
 void print_binary(unsigned long int n)
 {
-	int binary[32];
-	int i;
+	unsigned long int binary[32];
+	unsigned long int i;
 	int j;
 
 	i = 0;
